@@ -4,3 +4,4 @@ A simple "Choose Your Own Outcome" interactive story influences by the [case stu
 
 This project was done as part of the [OLC](https://onlinelearningconsortium.org) Designing Game-Based Learning Workshop in September 2020.
 
+You can view the story [here](https://anaptyxis.github.io/twinEthics/MalwareDisruption.html).
